@@ -1,0 +1,14 @@
+{
+  "name": "harry-potter",
+  "version": "1.0.0",
+  "description": "A Pen created on CodePen.io. Original URL: [https://codepen.io/Idoweltall/pen/oNBpvay](https://codepen.io/Idoweltall/pen/oNBpvay).",
+  "main": "Script/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mickael Letour",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta3"
+  }
+}

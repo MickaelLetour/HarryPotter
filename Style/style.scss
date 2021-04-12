@@ -1,0 +1,17 @@
+@media all and (max-width: 600px) {
+  header img { width: 100%; }
+}
+//$theme-colors: (
+//  primary : cyan,
+//  secondary : purple,
+//  perso : orange,
+//);
+
+$spacer: 1rem;
+
+$spacers: (
+  6 : ($spacer *6)
+);
+
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
